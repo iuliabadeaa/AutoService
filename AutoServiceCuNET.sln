@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoServiceCuNET", "AutoServiceCuNET.csproj", "{F4D65F14-E161-4532-868D-5B5173D473A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D65F14-E161-4532-868D-5B5173D473A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D65F14-E161-4532-868D-5B5173D473A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D65F14-E161-4532-868D-5B5173D473A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D65F14-E161-4532-868D-5B5173D473A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E672CD1D-0C08-4D3D-9F0C-1AE7D6308C66}
+	EndGlobalSection
+EndGlobal
